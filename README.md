@@ -3,7 +3,7 @@ About r-pdist
 
 Home: https://cran.r-project.org/web/packages/pdist/index.html
 
-Package license: GPL
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pdist-feedstock/blob/main/LICENSE.txt)
 
